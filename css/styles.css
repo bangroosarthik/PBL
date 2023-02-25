@@ -1,0 +1,70 @@
+.admin{
+    
+    position:absolute;
+    font-family:monospace;
+    margin-left: 35rem;
+    border-style: groove;
+    border-radius: 15px;
+    display: inline-block;
+    width: 20rem;
+    padding-left: 70px;
+    background-color: aliceblue;
+}
+
+body{
+    background-color:steelblue;
+}
+
+.log{
+    font-family: monospace;
+    position: absolute;
+    border-style: groove;
+    border-radius: 15px;
+    display: inline-block;
+    margin:8% ;
+    margin-left:35%;
+    width: 20rem;
+    padding-left:7rem;
+    background-color:aliceblue;
+}
+
+.butt{
+    /*Reset Button below is login and signup button*/
+    cursor: pointer;
+    border-radius: 12rem;
+}
+.but{
+    border-radius: 12rem;
+    cursor: pointer;
+}
+
+.userbut{
+    border-radius: 12rem;
+    cursor: pointer;
+}
+
+.userbutt{
+    cursor: pointer;
+    border-radius: 12rem;
+}
+
+#h1index{
+    position: relative;
+    
+    font-family: monospace;
+    font-weight: bolder;
+
+}
+
+#h1user{
+    
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+
+
+h2{
+    margin-left: 40rem;
+}
+
